@@ -1,0 +1,9 @@
+langchain
+chromadb
+openai
+umap-learn
+matplotlib
+hdbscan
+pd
+plotly
+nbformat
