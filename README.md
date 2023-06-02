@@ -13,3 +13,7 @@ We are going to use the Biden's State of the Union Address as our Document
 ## Install
 
 `pip install -r requirements.txt`
+
+## License
+
+MIT
